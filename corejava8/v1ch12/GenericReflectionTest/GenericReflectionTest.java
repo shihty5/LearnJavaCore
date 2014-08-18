@@ -1,3 +1,5 @@
+package v1ch12.GenericReflectionTest;
+
 import java.lang.reflect.*;
 import java.util.*;
 

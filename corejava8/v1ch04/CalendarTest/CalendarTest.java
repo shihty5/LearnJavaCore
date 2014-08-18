@@ -1,3 +1,5 @@
+package v1ch04.CalendarTest;
+
 import java.text.DateFormatSymbols;
 import java.util.*;
 

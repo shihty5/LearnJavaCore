@@ -1,3 +1,5 @@
+package v1ch12.PairTest3;
+
 /**
  * @version 1.00 2004-05-10
  * @author Cay Horstmann

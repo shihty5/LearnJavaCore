@@ -1,3 +1,5 @@
+package v1ch12.PairTest2;
+
 import java.util.*;
 
 /**
