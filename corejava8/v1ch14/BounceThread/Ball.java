@@ -1,3 +1,5 @@
+package v1ch14.BounceThread;
+
 import java.awt.geom.*;
 
 /**

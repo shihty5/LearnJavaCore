@@ -1,3 +1,5 @@
+package v1ch14.AlgorithmAnimation;
+
 import java.awt.*;
 import java.awt.geom.*;
 import java.awt.event.*;
